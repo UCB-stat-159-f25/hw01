@@ -69,7 +69,7 @@ reproducibility.
 
 We encourage you to find papers in your area of interest and/or research, but you can also start by looking at the following list of papers:
 
--   [https://github.com/jupyter/jupyter/wiki#reproducible-academic-publications](https://github.com/jupyter/jupyter/wiki#reproducible-academic-publications)
+-   [https://gist.github.com/ocoyawale/54d92fd4bf92508a2a6e482b5fa480fd#reproducible-academic-publications](https://gist.github.com/ocoyawale/54d92fd4bf92508a2a6e482b5fa480fd#reproducible-academic-publications)
 -   [https://github.com/leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research)
 -   For a list of ML papers, you can check the list of [2019 NeurIPS accepted papers](https://reproducibility-challenge.github.io/neurips2019/task/), which were used during the Reproducibility Challenge.
 
