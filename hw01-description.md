@@ -1,4 +1,4 @@
-# Homework No 2 - Reproducibility checkup on an existing paper
+# Homework 1 - Reproducibility checkup on an existing paper
 
 * **Statistics 159/259, Fall 2025**
 * **Due Thursday 9/18/2025, 11:59PM PT**
