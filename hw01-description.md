@@ -77,10 +77,6 @@ We encourage you to find papers in your area of interest and/or research, but yo
 
 1.  Write out your answers by filling out the provided markdown file, according to the description above.
 
-<<<<<<< HEAD
 2.  Convert the markdown file to PDF using the [pandoc program](https://pandoc.org) (which is installed in the hub). To do this, you will need to run `pandoc hw01-response.md -o hw01-response.pdf` in your terminal, and the pdf file should appear. Commit this PDF also to your repository.
-=======
-2.  Convert the markdown file to PDF using the [pandoc program](https://pandoc.org) (which is installed in the hub). Commit and push the PDF also to your repository, ensuring that the PDF version is up to date with your latest version of Markdown. Hint: pandoc will give you usage information if you type `pandoc –help`.
->>>>>>> 6eaf31aea2bd12f10b9f3bd8467d1cac594845ea
 
 3.  Fill out the [Google Form](https://forms.gle/YM5CGTQN1uT8joZ19) (you can copy and paste from the full-form response in Markdown). Grade from poor (1) to good (5) how reproducible the paper is for each one of the evaluation categories above.
