@@ -1,4 +1,4 @@
-# Homework 1 - Reproducibility checkup on an existing paper
+# Homework No 2 - Reproducibility checkup on an existing paper
 
 * **Statistics 159/259, Fall 2025**
 * **Due Thursday 9/18/2025, 11:59PM PT**
@@ -69,14 +69,14 @@ reproducibility.
 
 We encourage you to find papers in your area of interest and/or research, but you can also start by looking at the following list of papers:
 
--   [https://gist.github.com/ocoyawale/54d92fd4bf92508a2a6e482b5fa480fd#reproducible-academic-publications](https://gist.github.com/ocoyawale/54d92fd4bf92508a2a6e482b5fa480fd#reproducible-academic-publications)
+-   [https://github.com/jupyter/jupyter/wiki#reproducible-academic-publications](https://github.com/jupyter/jupyter/wiki#reproducible-academic-publications)
 -   [https://github.com/leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research)
 -   For a list of ML papers, you can check the list of [2019 NeurIPS accepted papers](https://reproducibility-challenge.github.io/neurips2019/task/), which were used during the Reproducibility Challenge.
 
 # Deliverables
 
-1.  Write out your answers by filling out the provided markdown file (`hw01-response.md`) according to the above instructions.
+1.  Write out your answers by filling out the provided markdown file, according to the description above.
 
-2.  Convert the markdown file to PDF using the [pandoc program](https://pandoc.org) (which is installed in the hub). Commit the PDF also to your repository, ensuring that the PDF version is up to date with your latest version of Markdown. Hint: pandoc will give you usage information if you type `pandoc –help`.
+2.  Convert the markdown file to PDF using the [pandoc program](https://pandoc.org) (which is installed in the hub). To do this, you will need to run `pandoc hw01-response.md -o hw01-response.pdf` in your terminal, and the pdf file should appear. Commit this PDF also to your repository.
 
 3.  Fill out the [Google Form](https://forms.gle/YM5CGTQN1uT8joZ19) (you can copy and paste from the full-form response in Markdown). Grade from poor (1) to good (5) how reproducible the paper is for each one of the evaluation categories above.
