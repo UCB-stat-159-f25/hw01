@@ -75,7 +75,7 @@ We encourage you to find papers in your area of interest and/or research, but yo
 
 # Deliverables
 
-1.  Write out your answers by filling out the provided markdown file, according to the description above.
+1.  Write out your answers by filling out the provided markdown file (`hw01-response.md`), according to the description above.
 
 2.  Convert the markdown file to PDF using the [pandoc program](https://pandoc.org) (which is installed in the hub). To do this, you will need to run `pandoc hw01-response.md -o hw01-response.pdf` in your terminal, and the pdf file should appear. Commit this PDF also to your repository.
 
