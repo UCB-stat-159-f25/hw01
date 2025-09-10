@@ -1,2 +1,3 @@
-# hw01
-Repository for HW1
+# HW01
+
+There are two files in this repository.
